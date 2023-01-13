@@ -37,6 +37,7 @@ GShade's policy is to *completely disable* GShade effects on your game every tim
 ### Important Notes
 - You need to make sure the replacement you're pasting at step 9 is overwriting all the numbers exactly and not adding or removing any. If it does, the alignment for the offsets will be messed up and the game will fail to launch.
 - The URL we are redirecting the update check to is just a raw Pastebin with your current version number. If Pastebin happens to go down, GShade will still disable itself since this workaround can't prevent that from happening if GShade receives no data.
+- If you need a version that is older than what is listed in the repo, open up an [issue](https://github.com/FaultyFunctions/GShade-Block/issues) and I will add it.
 
 # How does this work?
 
