@@ -7,7 +7,7 @@
 # What is this?
 This is a workaround to prevent GShade from disabling itself when a major update releases, if it can't contact the update server, and disabling update reminders for minor versions.
 
-# Why?
+# Why do we need this?
 GShade's policy is to *completely disable* GShade effects on your game every time there is a major update for it until you update. It also completely disables effects if it can't reach their update server. In my opinion this is completely unacceptable. The reasoning for them not supporing turning off the update check is because they don't want to provide support for issues on earlier versions of GShade. Whether or not you think that is sound reasoning is up to you. In my eyes, taking control away from the user and providing a negative experience is not the way to go. If everything works for someone on a certain version of GShade, why shouldn't that person be allowed to just use that version instead of having to go through the update process and then spend hours troubleshooting if something goes wrong? I applaud and thank the team for their continued work on GShade, but this decision combined with how condescending they/the community can be towards any real feedback about this was enough to make me look for a workaround on how to stop it from checking for updates. Please keep in mind that harassing/threatening the GShade team/dev about this issue is NOT the way to go. Feedback can be given without resorting to throwing a tantrum and it's my hope that the GShade team/dev won't try to block this workaround since I'm expecting this will only be used by a small portion of the GShade community.
 
 # Instructions
