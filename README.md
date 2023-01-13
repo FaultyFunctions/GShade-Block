@@ -28,7 +28,7 @@ GShade's policy is to *completely disable* GShade effects on your game every tim
 	![image](https://user-images.githubusercontent.com/6508045/212373600-f7d5a90a-950b-4290-a7e8-c2a7e7da0fac.png)
 	
 	These are the URLs that we need to configure. Specifically the https://api.github.com/repos/mortalitas/gshade/tags and https://storage.googleapis.com/gshade/tags.json.
-6. With your cursor select/highlight the blocks shown on this image:
+6. With your cursor select/highlight the *number* blocks shown on this image:
 
 	![image](https://user-images.githubusercontent.com/6508045/212375610-d45074f4-d940-4343-b67f-c2198328219d.png)
 	
