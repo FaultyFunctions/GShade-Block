@@ -30,7 +30,7 @@ GShade's policy is to *completely disable* GShade effects on your game every tim
 	
 	Note: Make sure you select using the *number* blocks like in the image and not the "Decoded text" column that is just a representation of the data. Also worth mentioning is your "Offset (h)" column digits on the left might not match the picture and that's okay. As long as you select the number blocks exactly like in the image and both urls mentioned earlier are included, then you should be fine.
 7. Scroll up on this page and click your current version of GShade from the files listed on this repo.
-8. Copy the text from that file (should be a bunch of numbers).
+8. Copy the text from that file (should be a bunch of numbers). Make sure you select all the numbers and nothing else.
 9. Go back to HxD and right click the selection you selected in step 6 and click `Paste write`.
 10. Save the file and try to run the game, if it worked it will act like you're on the latest version and will stop telling you to update even if new versions come out afterwards.
 
