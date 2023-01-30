@@ -1,4 +1,4 @@
-# As of 4.1.0 possibly 4.0.4, it seems they have tried to patch this workaround. I'm looking for a possible fix.
+# As of 4.1.0 possibly 4.0.4, it seems they have tried to patch this workaround. I'm looking for a possible fix. If you have v4.0.3 or lower, this workaround should still work for you.
 
 # IMPORTANT NOTICE
 
