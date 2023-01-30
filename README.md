@@ -1,3 +1,5 @@
+# As of 4.1.0 possible 4.0.5, it seems they have tried to patch this workaround. I'm looking for a possible fix.
+
 # IMPORTANT NOTICE
 
 ### IF YOU USE THIS WORKAROUND AND STAY ON AN OUTDATED VERSION BE PREPARED TO FORFEIT ANY SUPPORT YOU MIGHT GET FROM THE GSHADE CONTRIBUTORS/COMMUNITY
