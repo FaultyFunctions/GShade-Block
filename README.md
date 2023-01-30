@@ -1,4 +1,8 @@
-# As of 4.1.0 possibly 4.0.4, it seems they have tried to patch this workaround. I'm looking for a possible fix. If you have v4.0.3 or lower, this workaround should still work for you.
+# If you are v4.0.4 or above
+
+They have patched this workaround, but an easy fix is to replace your `GShade64.dll` in the `C:\Program Files\GShade` folder with this one [from here](https://drive.google.com/file/d/1aruvRyQ6uxxoK1p_DsAa7nF-mJLRIfVQ/view?usp=share_link). This is a modified version of v4.0.4 before they patched the workaround that should just work. Even if you're on v4.1.0 (and maybe above?), that file should work. When you replace your own file with the modified version, it'll be like downgrading to v4.0.4 and it shouldn't ask for updates again.
+
+I'm not 100% sure how long this will keep working, and obviously downloading random dll files from the internet is probably bad practice but the only thing I've modified is what is detailed down below. It's really up to you if you are okay with trusting that.
 
 # IMPORTANT NOTICE
 
