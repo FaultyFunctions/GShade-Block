@@ -1,3 +1,8 @@
+# GShade Alternatives
+With the recent controversy surrounding GShade injecting malicious code that restarts people's computers if they tried to use a third party installer to install gshade presets by bypassing the official installer ([See here for details + alternatives](https://www.reddit.com/r/ffxiv/comments/10vdvbw/comment/j7gxddo/?utm_source=share&utm_medium=web2x&context=3)), I would fully recommend uninstalling GShade and using alternatives like default Reshade, Stormshade, or Nvidia Freestyle/filters (note: some GShade presets might not work with these alternatives?). I will keep this repo up and try to still help people but I personally have already uninstalled GShade and can only provide limited support.
+
+As far as I know the malicious code still exists in the GShade codebase but technically if you use the official installer and this bypass, the malicious code won't activate/shouldn't affect you. So so proceed at your own risk.
+
 # If you are v4.0.4 or above
 
 They have patched this workaround, but an easy fix is to replace your `GShade64.dll` in the `C:\Program Files\GShade` folder with this one [from here](https://drive.google.com/file/d/1aruvRyQ6uxxoK1p_DsAa7nF-mJLRIfVQ/view?usp=share_link). This is a modified version of v4.0.4 before they patched the workaround that should just work. Even if you're on v4.1.0 (and maybe above?), that file should work. When you replace your own file with the modified version, it'll be like downgrading to v4.0.4 and it shouldn't ask for updates again.
