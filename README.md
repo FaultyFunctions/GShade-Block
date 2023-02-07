@@ -1,3 +1,6 @@
+# v4.1.0+ Automated Patcher
+GShade is pretty much dead now but if you want to get it working still you can use this [automated patcher](https://notnite.com/gshade-patcher.html) made by [@NotNite](https://twitter.com/NotNite). This will patch out the update check DRM automatically for you. It is still recommended that you look at alternatives to GShade.
+
 # GShade Alternatives
 With the recent controversy surrounding GShade injecting malicious code that restarts people's computers if they tried to use a third party installer to install gshade presets by bypassing the official installer ([See here for details + alternatives](https://www.reddit.com/r/ffxiv/comments/10vdvbw/comment/j7gxddo/?utm_source=share&utm_medium=web2x&context=3)), I would fully recommend uninstalling GShade and using alternatives like default Reshade, Stormshade, or Nvidia Freestyle/filters (note: some GShade presets might not work with these alternatives?). I will keep this repo up and try to still help people but I personally have already uninstalled GShade and can only provide limited support.
 
